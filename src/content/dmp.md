@@ -192,7 +192,7 @@ April 2021** (this may be adjusted later once graduation details are
 set, but will not be earlier).
 
 DMP students should submit their DMP paper as both a PDF attachment to
-an email and a paper copy to the DMP director (<a
+an email to the DMP director (<a
 href="mailto:evans@virginia.edu">evans@virginia.edu</a>), their
 advisor and second reader, by the required deadline (30 days before
 graduation). The DMP director will follow-up with the student's
