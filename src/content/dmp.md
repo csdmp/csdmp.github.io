@@ -128,7 +128,7 @@ director.
 DMP projects must have a _second reader_, who, in addition to the
 research advisor and DMP director, will be responsible for evaluating
 the project. The second reader agrees to read the DMP report and
-provide and evaluation. In most cases, we hope the second reader will
+provide an evaluation. In most cases, we hope the second reader will
 also be involved in other phases of the work, providing additional
 expertise to the DMP researcher.
 
