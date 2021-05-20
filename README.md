@@ -1,3 +1,5 @@
-# csethics.github.io
+# csdmp.github.io
 
-Course Website for University of Virginia _Everyday Ethics and Quotidian Quandries for Computer Scientists_ (cs3501) course, taught by [David Evans](https://www.cs.virginia.edu/evans).
+Website for the Distinguished Major in Computer Science at the University of Virginia.
+
+[https://csdmp.github.io](https://csdmp.github.io)
