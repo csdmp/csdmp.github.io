@@ -26,6 +26,8 @@ Distinction_, or _Highest Distinction_. According to College rules, to
 earn a Distinguished Major, students must have a cumulative GPA of 3.4
 or better.
 
+You can find some examples of complete DMP papers here: [DMP Graduates](/graduates).
+
 For more information on the DMP, contact the **DMP Director**:
 David Evans (<a href="https://www.cs.virginia.edu/evans/office">https://www.cs.virginia.edu/evans/office</a>, <a
 href="mailto:evans@virginia.edu">evans@virginia.edu</a>).
@@ -60,10 +62,13 @@ requirement listed on the BACS curriculum.
 
 **Application Deadline:** Students must apply by the third semester
 prior to graduation. Spring graduates should submit their applications
-in by **29 March** of the year before graduation. Winter graduates,
+in by **29 April** of the year before graduation. Winter graduates,
 must have their applications in by **29 October** of the year before
 the winter graduation. (If these deadlines are missed, students can
-still join the DMP at the discrection of the DMP Director.)
+still join the DMP at the discrection of the DMP Director. In general,
+we are happy to have students join after the application deadline so
+long as they have a research project and advisor set before beginning
+the semester two semesters before they plan to graduate.)
 
 Note that applying to the program occurs relatively early in the
 research process. It is not necessary to have a fully formed research
@@ -188,12 +193,11 @@ advisor should specify any requirements for the DMP report, in
 consultation with the DMP director for any unusual situations.
 
 The DMP report must be completed and submitted at least thirty days
-prior to graduation. For May 2021 graduation, the deadline is **12
-April 2021** (this may be adjusted later once graduation details are
-set, but will not be earlier).
+prior to graduation. For May 2022 graduation, the deadline is
+**Friday, 22 April 2022**.
 
-DMP students should submit their DMP paper as both a PDF attachment to
-an email to the DMP director (<a
+DMP students should submit their DMP paper as a PDF attachment to an
+email to the DMP director (<a
 href="mailto:evans@virginia.edu">evans@virginia.edu</a>), their
 advisor and second reader, by the required deadline (30 days before
 graduation). The DMP director will follow-up with the student's
