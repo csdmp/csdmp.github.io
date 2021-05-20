@@ -2,6 +2,7 @@
 date = "14 Nov 2020"
 draft = false
 title = "DMP Requirements"
+type = "index"
 slug = "dmp"
 +++
 

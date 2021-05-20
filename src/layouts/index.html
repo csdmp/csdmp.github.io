@@ -39,7 +39,6 @@ University of Virginia<Br>
            {{ .Content }}
     {{ end }}
 
-
     
     {{ range first $posts_count (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
     {{ partial "post-full-summary" . }}

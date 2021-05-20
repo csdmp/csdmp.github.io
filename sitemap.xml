@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://csdmp.github.io/graduates/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://csdmp.github.io/tags/</loc>
   </url>
   
