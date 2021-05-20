@@ -128,18 +128,51 @@ Advisor: Mark Floryan
 </div>
 
 
-
-
-
 ## 2017
 
+**Salah Assana**, High Distinction
+
 <div class="indented">
+
+_Thermatrack: Room Level Tracking of Occupants Using Thermal Cameras_  
+Advisor: Kamin Whitehouse (Second reader: Vicente Ordonez)
+
+</div>
+
+**Zihan Ni**, Distinction
+<div class="indented">
+
+_Intent-aware Query Obfuscation for Privacy-Preserving Personalized Web Search_    
+Advisor: Hongning Wang (Second reader: David Evans)
+</div>
 
 </div>
 
 ## 2016
 
+**Tara Lakshmi Raj**, High Distinction
+
 <div class="indented">
+
+_AsyncTalent: A talent recruiting app that automates candidate screening and phone interviewing_  
+Advisor: Alf Weaver (Second reader: David Touve)
+
+</div>
+
+**Rolph Jester Recto**, High Distinction
+
+<div class="indented">
+
+_Finding and Fixing Bugs in Liquid Haskell_  
+Advisor: Westley Weimer 
+</div>
+
+**Ziqi Liu**, High Distinction
+<div class="indented">
+
+_A Proxy for Mitigating Threats from Embedded Third-party Scripts_  
+Advisor: David Evans (Second reader: Mary Lou Soffa)
+
 
 </div>
 
