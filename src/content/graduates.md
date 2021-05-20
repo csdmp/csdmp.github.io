@@ -23,7 +23,7 @@ Advisor: Hongning Wang (Second reader: Yangfeng Ji)
 
 <div class="indented">
 
-_Towards Using RPKI to Secure Tor Against BGP Routing Attacks_
+_Towards Using RPKI to Secure Tor Against BGP Routing Attacks_  
 Advisor: Yixin Sun (Second reader: David Evans)
 
 </div>
