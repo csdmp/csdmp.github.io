@@ -41,7 +41,7 @@ Advisor: Yanjun Qi (Second reader: Yangfeng Ji)
 
 <div class="indented">
 
-[_Improved Estimation of Concentration under L<sub>p</sub>-norm Distance Metrics using Half Spaces_](docs/prescott2021.pdf)  
+[_Improved Estimation of Concentration under L<sub>p</sub>-norm Distance Metrics using Half Spaces_](/docs/prescott2021.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Published in [_Ninth International Conference on Learning Representations_ (ICLR 2021)](https://openreview.net/forum?id=BUlyHkzjgmA)  
 Advisor: David Evans (Second reader: Mohammad Mahmoody)
