@@ -62,7 +62,7 @@ Advisor: Yuan Tian (Second reader: Brad Campbell)
 
 <div class="indented">
 
-DMP Project: [_Reflections_](/docs/cerluccio2020.pdf)  
+[_Reflections_](/docs/cerluccio2020.pdf)  
 Advisor: R. Lee Kennedy (Drama) (Second reader: Panagiotis Apostolellis)  
 UVA Today Article: [_Critically Creative: Recent Grad Develops Online Performance Modification_](https://news.virginia.edu/content/critically-creative-recent-grad-develops-online-performance-modification)  
 </div>
@@ -207,7 +207,7 @@ Advisor: David Evans (Second reader: Mary Lou Soffa)
 
    <div class="indented">
 
-DMP Project: [_The Complexity of Computing the Density of States_](/docs/brown2011.pdf)  
+[_The Complexity of Computing the Density of States_](/docs/brown2011.pdf)  
 Readers: Gabriel Robins (Computer Science) and Oliver Pfister (Physics)  
 Graduate School: University of California, Berkeley  
 National Science Foundation Graduate Research Fellowship 2011
@@ -218,7 +218,7 @@ National Science Foundation Graduate Research Fellowship 2011
 
    <div class="indented">
    
-DMP Project: [_Designing Better Fitness Functions for Automated Program Repair_](/docs/fast2011.pdf)  
+[_Designing Better Fitness Functions for Automated Program Repair_](/docs/fast2011.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Published in [_12th Annual Conference on Genetic and Evolutionary Computation_](https://dl.acm.org/doi/abs/10.1145/1830483.1830654?casa_token=k_-o7K3FnfkAAAAA:f4L-nUfU1I6TyPztfUcG9ru4nXmpmKdqM5GSOcduoKVdewDLU3vryYPeZwR6JG7OrCLcb3GMou0k)  
 Advisor: Westley Weimer (Computer Science) (Second reader: David Evans, Computer Science)  
@@ -231,7 +231,7 @@ Graduate School: Stanford University
 
    <div class="indented">
    
-DMP Project: [_A Transitive Signature Scheme for Directed Trees_](/docs/mcpherson2010.pdf)  
+[_A Transitive Signature Scheme for Directed Trees_](/docs/mcpherson2010.pdf)  
 Advisor: abhi shelat (Computer Science) (Second reader: Bascom Deaver, Physics)  
 Graduate School: University of Texas at Austin
    </div>
@@ -241,7 +241,7 @@ Graduate School: University of Texas at Austin
 
    <div class="indented">
    
-DMP Project: [_Using Lego Mindstorms NXT And Lejos in An Advanced Software Engineering Course_](/docs/lew2010.pdf)  
+[_Using Lego Mindstorms NXT And Lejos in An Advanced Software Engineering Course_](/docs/lew2010.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Published in [_23rd IEEE Conference on Software Engineering Education and Training_](https://ieeexplore.ieee.org/document/5463581), March 2010  
 Readers: Tom Horton (Computer Science) and Mark Sherriff (Computer Science)  
@@ -255,7 +255,7 @@ Graduate School: George Mason Law School
 
    <div class="indented">
    
-DMP Project: [_Efficient Time-Aware Prioritization with Knapsack Solvers_](/docs/alspaugh2009.pdf)  
+[_Efficient Time-Aware Prioritization with Knapsack Solvers_](/docs/alspaugh2009.pdf)  
 Advisor: Mary Lou Soffa (Computer Science) (Second Readers: Kai-Uwe Bux, Mathematics)  
 Graduate School: University of California Berkeley  
 National Science Foundation Graduate Research Fellowship
@@ -265,7 +265,7 @@ National Science Foundation Graduate Research Fellowship
 
    <div class="indented">
 
-DMP Project: [_Goldreich’s One-Way Function Candidate and Drunken Backtracking Algorithms_](/docs/miller2009.pdf)  
+[_Goldreich’s One-Way Function Candidate and Drunken Backtracking Algorithms_](/docs/miller2009.pdf)  
 Advisor: abhi shelat (Computer Science) (Second reader: Christian Gromoll, Mathematics)  
 Graduate School: Massachusetts Institute of Technology  
 National Science Foundation Graduate Research Fellowship
