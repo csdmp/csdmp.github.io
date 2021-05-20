@@ -158,6 +158,16 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Literata', sans;
 }
 
+.highlighted {
+    background-color: var(--inverse-light-color);
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
 h2 {
     background-color: var(--sp-color);
     color: var(--inverse-color);
