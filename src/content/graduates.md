@@ -176,6 +176,7 @@ Advisor: David Evans (Second reader: Mary Lou Soffa)
 
 </div>
 
+<!--
 ## 2015
 
 <div class="indented">
@@ -199,7 +200,7 @@ Advisor: David Evans (Second reader: Mary Lou Soffa)
 <div class="indented">
 
 </div>
-
+-->
 
 ## 2011
 
