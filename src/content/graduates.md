@@ -11,6 +11,16 @@ _Graph Embedding with Hierarchical Attentive Membership_
 Advisor: Hongning Wang (Second reader: Jundong Li)  
 </div>
 
+**Henry Carscadden**, Highest Distinction
+
+<div class="indented">
+
+_Techniques for Blocking the Propagation of Two Simultaneous Contagions over Networks Using the Graph Dynamical Systems Framework_  
+Advisor: Madhav Marathe (Second reader: S. S. Ravi) 
+
+</div>
+
+
 **Hing Yuet (Sophia) Cheung**, Distinction
 
 <div class="indented">
@@ -176,7 +186,6 @@ Advisor: David Evans (Second reader: Mary Lou Soffa)
 
 </div>
 
-<!--
 ## 2015
 
 <div class="indented">
@@ -191,16 +200,46 @@ Advisor: David Evans (Second reader: Mary Lou Soffa)
 
 ## 2013
 
+
 <div class="indented">
 
 </div>
 
 ## 2012
 
+**Peter Marc Chapman**, Highest Distinction
 <div class="indented">
 
+[_Automated Black-Box Detection of Side-Channel Vulnerabilities in Web Applications_](/docs/chapman2011)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Published in [_18th ACM Conference on Computer and Communications Security_]
 </div>
--->
+
+**Sarah Elizabeth Elder**, Distinction
+
+
+**James Thomas Harrison**, High Distinction
+
+
+**Jeremy Liu**, Distinction
+
+**Mark Owen Pierotti**, Distinction
+
+**Virginia Smith**, Highest Distinction
+
+<div class="indented">
+
+[Assistant Profoessor](https://www.cs.cmu.edu/~smithv/) in the Machine Learning Department at Carnegie Mellon University
+</div>
+
+**Casey Reed Mihaloew**, Distinction (Fall 2012)
+
+
+
+<div class="indented">
+</div>
+
+
 
 ## 2011
 
