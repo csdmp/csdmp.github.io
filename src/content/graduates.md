@@ -186,60 +186,6 @@ Advisor: David Evans (Second reader: Mary Lou Soffa)
 
 </div>
 
-## 2015
-
-<div class="indented">
-
-</div>
-
-## 2014
-
-<div class="indented">
-
-</div>
-
-## 2013
-
-
-<div class="indented">
-
-</div>
-
-## 2012
-
-**Peter Marc Chapman**, Highest Distinction
-<div class="indented">
-
-[_Automated Black-Box Detection of Side-Channel Vulnerabilities in Web Applications_](/docs/chapman2011)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Published in [_18th ACM Conference on Computer and Communications Security_]
-</div>
-
-**Sarah Elizabeth Elder**, Distinction
-
-
-**James Thomas Harrison**, High Distinction
-
-
-**Jeremy Liu**, Distinction
-
-**Mark Owen Pierotti**, Distinction
-
-**Virginia Smith**, Highest Distinction
-
-<div class="indented">
-
-[Assistant Profoessor](https://www.cs.cmu.edu/~smithv/) in the Machine Learning Department at Carnegie Mellon University
-</div>
-
-**Casey Reed Mihaloew**, Distinction (Fall 2012)
-
-
-
-<div class="indented">
-</div>
-
-
 
 ## 2011
 
