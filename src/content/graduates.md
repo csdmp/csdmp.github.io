@@ -42,7 +42,7 @@ Advisor: Yixin Sun (Second reader: David Evans)
 
 <div class="indented">
 
-[_A Closer Look at Advantage-Filtered Behavioral Cloning in High-Noise Datasets_](/docs/grigsby2021.pdf)
+[_A Closer Look at Advantage-Filtered Behavioral Cloning in High-Noise Datasets_](/docs/grigsby2021.pdf)  
 Advisor: Yanjun Qi (Second reader: Yangfeng Ji)
 
 </div>
