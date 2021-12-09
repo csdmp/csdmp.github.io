@@ -2,7 +2,6 @@
 
 ## 2021
 
-
 **Ethan Blaser**, Highest Distinction
 
 <div class="indented">
@@ -155,8 +154,6 @@ Advisor: Kamin Whitehouse (Second reader: Vicente Ordonez)
 
 _Intent-aware Query Obfuscation for Privacy-Preserving Personalized Web Search_    
 Advisor: Hongning Wang (Second reader: David Evans)
-</div>
-
 </div>
 
 ## 2016
