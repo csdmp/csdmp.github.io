@@ -18,7 +18,8 @@ Advisor: Hongning Wang (Second reader: Jundong Li)
 <div class="indented">
 
 <em>Techniques for Blocking the Propagation of Two Simultaneous Contagions over Networks Using the Graph Dynamical Systems Framework</em><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Published as [_Blocking the Propagation of Two Simultaneous Contagions over Networks_](https://par.nsf.gov/servlets/purl/10203995) in [_International Conference on Complex Networks and Their Applications_](https://link.springer.com/chapter/10.1007/978-3-030-65347-7_38)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Published as [_Blocking the Propagation of Two Simultaneous Contagions over Networks_](https://par.nsf.gov/servlets/purl/10203995)<Br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in [_International Conference on Complex Networks and Their Applications_](https://link.springer.com/chapter/10.1007/978-3-030-65347-7_38)
 Advisor: Madhav Marathe (Second reader: S. S. Ravi)  
 UVA Today Article: [_Engineering Grad Receives Rader Prize for Network Science Research_](https://news.virginia.edu/content/engineering-grad-receives-rader-prize-network-science-research?utm_source=VirginiaFeed&utm_medium=referral&utm_campaign=news)
 
