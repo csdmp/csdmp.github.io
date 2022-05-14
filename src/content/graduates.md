@@ -6,7 +6,7 @@
 
 <div class="indented">
 
-[_Graph Embedding with Hierarchical Attentive Membership_(https://dl.acm.org/doi/10.1145/3488560.3498499)  
+[_Graph Embedding with Hierarchical Attentive Membership_](https://dl.acm.org/doi/10.1145/3488560.3498499)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Published in [Fifteenth ACM International Conference on Web Search and Data Mining](https://dl.acm.org/doi/10.1145/3488560.3498499))  
 Advisor: Hongning Wang (Second reader: Jundong Li)  
 
@@ -17,7 +17,7 @@ Advisor: Hongning Wang (Second reader: Jundong Li)
 
 <div class="indented">
 
-_Techniques for Blocking the Propagation of Two Simultaneous Contagions over Networks Using the Graph Dynamical Systems Framework_  
+_Techniques for Blocking the Propagation of Two Simultaneous Contagions over Networks Using the Graph Dynamical Systems Framework_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Published as [_Blocking the Propagation of Two Simultaneous
 Contagions over Networks_](https://par.nsf.gov/servlets/purl/10203995) in [_
 International Conference on Complex Networks and Their Applications_](https://link.springer.com/chapter/10.1007/978-3-030-65347-7_38)
