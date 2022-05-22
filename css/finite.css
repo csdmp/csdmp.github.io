@@ -160,6 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .highlighted {
     background-color: var(--highlight-color);
+    color: var(--inverse-color);
     margin-left: 5rem;
     margin-right: 5rem;
     margin-top: 2rem;
