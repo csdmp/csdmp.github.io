@@ -5,7 +5,7 @@
 **Amanuel Anteneh**, Highest Distinction
 <div class="indented">
 
-_An Analysis of Gaussian Boson Sampling for Graph Isomorphism & Graph Classification using Supervised Machine Learning_
+_An Analysis of Gaussian Boson Sampling for Graph Isomorphism & Graph Classification using Supervised Machine Learning_  
 Advisor: Olivier Pfister (Second reader: Israel Klich)
 </div>
 
