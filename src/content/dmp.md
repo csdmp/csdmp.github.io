@@ -6,6 +6,22 @@ type = "index"
 slug = "dmp"
 +++
 
+
+<center class="highlighted">
+
+Congratuations to our [**2022 Distinguished Majors Graduates**!](/graduates)<br>
+Amanuel&nbsp;Anteneh,
+Skylar&nbsp;Brodowski,
+Chengyuan&nbsp;Cai,
+Chase&nbsp;Dawson,
+Minjun&nbsp;(Elena)&nbsp;Long,
+Reza&nbsp;Mirzaiee,
+Mohit&nbsp;Srivastav,
+Omika&nbsp;Suryawanshi,
+Peiyu&nbsp;Zhang,
+Karen&nbsp;Zipor 
+</center>
+
 # Distinguished Major in Computer Science
 
 Bachelor of Arts Computer Science majors who have completed 18 credit
