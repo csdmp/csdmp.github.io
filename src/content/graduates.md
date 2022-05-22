@@ -1,5 +1,69 @@
 # Distinguished Majors in Computer Science
 
+## 2022
+
+**Amanuel Anteneh**, Highest Distinction
+<div class="indented">
+_An Analysis of Gaussian Boson Sampling for Graph Isomorphism & Graph Classification using Supervised Machine Learning_
+Advisor: Olivier Pfister (Second reader: Israel Klich)
+</div>
+
+**Skylar Brodowski**, High Distinction
+<div class="indented">
+_A Random Forest Model for ATP Site Prediction on Kinases_  
+Advisor: Ku-Lung Hsu (Second reader: Philip Bourne)
+</div>
+
+**Chengyuan Cai**, Distinction
+<div class="indented">
+_Expanding the Language Scope of TextAttack: Chinese Adversarial Attacks_
+Advisor: Yanjun Qi (Second reader: Yangfeng Ji)
+</div>
+
+**Chase Dawson**, Highest Distinction
+<div class="indented">
+[_<del>Global</del> Local Warming: Creating a Multisensory Representation of Climate Data](/docs/dawson2022.pdf)
+Advisor: Michele Claibourn (Second reader: Seongkook Heo)
+</div>
+
+**Minjun (Elena) Long**, Highest Distinction
+<div class="indented">
+_SenRev: Measurement of Personal Information Disclosure in Online Health Communities_
+Advisor: Yuan Tian (Second reader: Gang Wang, University of Illinois)
+</div>
+
+**Reza Mirzaiee**, High Distinction
+<div class="indented">
+_Stochastic Synthesis of Pointing Gestures for Virtual Agents_
+Advisor: Tariq Iqbal (Second reader: William Bernstein, Air Force Research Laboratory)
+</div>
+
+**Mohit Srivastav**, High Distinction
+<div class="indented">
+_Using Machine Learning to Improve the Performance of the Mu2e (muon-to-electron) Cosmic Ray Veto_
+Advisor: Craig Dukes (Second reader: David Evans)
+</div>
+
+
+**Omika Suryawanshi**, Distinction
+<div class="indented">
+_Minimalism and Money: Actually Good Together or Just a Gambit?_
+Advisor: Panagiotis Apostolellis (Second reader: Seongkook Heo)
+</div>
+
+**Peiyu Zhang**, High Distinction
+<div class="indented">
+Fringer: A Finger-Worn Passive Device Enabling Robust Computer Vision Based Force Sensing Using Moiré Fringes
+Advisor: Seongkook Heo (Second reader: Gregory Gerling)
+</div>
+
+**Karen Zipor**, High Distinction
+<div class="indented">
+[_Integrating Motion Capture Technology into Theatrical Performance_](/docs/zipor2022.pdf)  
+Advisor: Mona Kasra (Second reader: Panagiotis Apostolellis)
+</div>
+
+
 ## 2021
 
 **Ethan Blaser**, Highest Distinction
