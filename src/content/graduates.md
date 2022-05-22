@@ -19,35 +19,35 @@ Advisor: Ku-Lung Hsu (Second reader: Philip Bourne)
 **Chengyuan Cai**, Distinction
 <div class="indented">
 
-_Expanding the Language Scope of TextAttack: Chinese Adversarial Attacks_
+_Expanding the Language Scope of TextAttack: Chinese Adversarial Attacks_  
 Advisor: Yanjun Qi (Second reader: Yangfeng Ji)
 </div>
 
 **Chase Dawson**, Highest Distinction
 <div class="indented">
 
-[_<del>Global</del> Local Warming: Creating a Multisensory Representation of Climate Data](/docs/dawson2022.pdf)
+[_<del>Global</del> Local Warming: Creating a Multisensory Representation of Climate Data_](/docs/dawson2022.pdf)  
 Advisor: Michele Claibourn (Second reader: Seongkook Heo)
 </div>
 
 **Minjun (Elena) Long**, Highest Distinction
 <div class="indented">
 
-_SenRev: Measurement of Personal Information Disclosure in Online Health Communities_
+_SenRev: Measurement of Personal Information Disclosure in Online Health Communities_  
 Advisor: Yuan Tian (Second reader: Gang Wang, University of Illinois)
 </div>
 
 **Reza Mirzaiee**, High Distinction
 <div class="indented">
 
-_Stochastic Synthesis of Pointing Gestures for Virtual Agents_
+_Stochastic Synthesis of Pointing Gestures for Virtual Agents_  
 Advisor: Tariq Iqbal (Second reader: William Bernstein, Air Force Research Laboratory)
 </div>
 
 **Mohit Srivastav**, High Distinction
 <div class="indented">
 
-_Using Machine Learning to Improve the Performance of the Mu2e (muon-to-electron) Cosmic Ray Veto_
+_Using Machine Learning to Improve the Performance of the Mu2e (muon-to-electron) Cosmic Ray Veto_  
 Advisor: Craig Dukes (Second reader: David Evans)
 </div>
 
@@ -55,14 +55,14 @@ Advisor: Craig Dukes (Second reader: David Evans)
 **Omika Suryawanshi**, Distinction
 <div class="indented">
 
-_Minimalism and Money: Actually Good Together or Just a Gambit?_
+_Minimalism and Money: Actually Good Together or Just a Gambit?_  
 Advisor: Panagiotis Apostolellis (Second reader: Seongkook Heo)
 </div>
 
 **Peiyu Zhang**, High Distinction
 <div class="indented">
 
-_Fringer: A Finger-Worn Passive Device Enabling Robust Computer Vision Based Force Sensing Using Moiré Fringes_  
+_Fringer: A Finger-Worn Passive Device Enabling Robust Computer Vision Based Force Sensing Using Moiré Fringes_
 Advisor: Seongkook Heo (Second reader: Gregory Gerling)
 </div>
 
