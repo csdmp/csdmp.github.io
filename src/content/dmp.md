@@ -11,7 +11,7 @@ slug = "dmp"
 
 Congratuations to our [**2022 Distinguished Majors Graduates**!](/graduates)<br>
 <font color="white">
-Amanuel&nbsp;Anteneh, Skylar&nbsp;Brodowski, Chengyuan&nbsp;Cai, Chase&nbsp;Dawson, Minjun&nbsp;(Elena)&nbsp;Long, Reza&nbsp;Mirzaiee, Mohit&nbsp;Srivastav, Omika&nbsp;Suryawanshi, Peiyu&nbsp;Zhang, Karen&nbsp;Zipor
+Amanuel&nbsp;Anteneh, Skylar&nbsp;Brodowski, Chengyuan&nbsp;Cai, Chase&nbsp;Dawson, Minjun&nbsp;(Elena)&nbsp;Long, Reza&nbsp;Mirzaiee, Mohit&nbsp;Srivastav, Omika&nbsp;Suryawanshi, Hanyu&nbsp;Liu&nbsp;(December&nbsp;2022), Peiyu&nbsp;Zhang, Karen&nbsp;Zipor
 </font>
 </center>
 
