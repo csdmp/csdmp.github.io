@@ -1,6 +1,15 @@
 # Distinguished Majors in Computer Science
 
-## 2022
+## December 2022
+
+**Hanyu Liu**, High Distinction
+<div class="indented">
+
+_Expanding the Language Scope: Chinese Adversarial Attacks_
+Advisor: Yanjun Qi (Second reader: Nada Basit)
+</div>
+
+## Spring 2022
 
 **Amanuel Anteneh**, Highest Distinction
 <div class="indented">

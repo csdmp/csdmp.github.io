@@ -5,12 +5,7 @@
     <link>https://csdmp.github.io/</link>
     <description>Recent content on UVA CS DMP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://csdmp.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://csdmp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DMP Requirements</title>
       <link>https://csdmp.github.io/dmp/</link>
@@ -28,15 +23,13 @@ Amanuel Anteneh, Skylar Brodowski, Chengyuan Cai, Chase Dawson, Minjun (Ele
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://csdmp.github.io/graduates/</guid>
-      <description>Distinguished Majors in Computer Science 2022 Amanuel Anteneh, Highest Distinction
+      <description>Distinguished Majors in Computer Science December 2022 Hanyu Liu, High Distinction
+Expanding the Language Scope: Chinese Adversarial Attacks Advisor: Yanjun Qi (Second reader: Nada Basit)
+ Spring 2022 Amanuel Anteneh, Highest Distinction
 An Analysis of Gaussian Boson Sampling for Graph Isomorphism &amp;amp; Graph Classification using Supervised Machine Learning
 Advisor: Olivier Pfister (Second reader: Israel Klich)
  Skylar Brodowski, High Distinction
-A Random Forest Model for ATP Site Prediction on Kinases
-Advisor: Ku-Lung Hsu (Second reader: Philip Bourne)
- Chengyuan Cai, Distinction
-Expanding the Language Scope of TextAttack: Chinese Adversarial Attacks
-Advisor: Yanjun Qi (Second reader: Yangfeng Ji)</description>
+A Random Forest Model for ATP Site Prediction on Kinases</description>
     </item>
     
   </channel>
