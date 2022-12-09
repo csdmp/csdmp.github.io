@@ -5,7 +5,7 @@
 **Hanyu Liu**, High Distinction
 <div class="indented">
 
-_Expanding the Language Scope: Chinese Adversarial Attacks_
+_Expanding the Language Scope: Chinese Adversarial Attacks_  
 Advisor: Yanjun Qi (Second reader: Nada Basit)
 </div>
 
