@@ -57,7 +57,7 @@ Advisor: Tariq Iqbal (Second reader: William Bernstein, Air Force Research Labor
 **Mohit Srivastav**, High Distinction
 <div class="indented">
 
-[_Using Machine Learning to Improve the Performance of the Mu2e (muon-to-electron) Cosmic Ray Veto_](/docs/srivastva2022.pdf)
+[_Using Machine Learning to Improve the Performance of the Mu2e (muon-to-electron) Cosmic Ray Veto_](/docs/srivastav2022.pdf)  
 Advisor: Craig Dukes (Second reader: David Evans)
 </div>
 
