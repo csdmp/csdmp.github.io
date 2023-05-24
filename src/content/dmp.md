@@ -9,11 +9,11 @@ slug = "dmp"
 
 <center class="highlighted">
 
-Congratuations to our [**2022 Distinguished Majors Graduates**!](/graduates)<br>
+Congratuations to our [**2023 Distinguished Majors Graduates**!](/graduates)<br>
 <font color="white">
-Amanuel&nbsp;Anteneh, Skylar&nbsp;Brodowski, Chengyuan&nbsp;Cai, Chase&nbsp;Dawson, Minjun&nbsp;(Elena)&nbsp;Long, Reza&nbsp;Mirzaiee, Mohit&nbsp;Srivastav, Omika&nbsp;Suryawanshi, Hanyu&nbsp;Liu&nbsp;(December&nbsp;2022), Peiyu&nbsp;Zhang, Karen&nbsp;Zipor
-</font>
-</center>
+Hanyu&nbsp;Liu&nbsp;(December&nbsp;2022), Jude Nanaw, 
+Harsh&nbsp;Padhye&nbsp;and&nbsp;Tingwei&nbsp;Zhang
+</font></center>
 
 # Distinguished Major in Computer Science
 

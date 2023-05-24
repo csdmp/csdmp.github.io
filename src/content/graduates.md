@@ -1,5 +1,33 @@
 # Distinguished Majors in Computer Science
 
+## Spring 2023
+
+**Harsh Padhye**, High Distinction
+<div class="indented">
+
+[_TuneScope: Synthesizing Music and Computational Thinking_](/docs/padhye2023.pdf)  
+Advisor: N. Rich Nguyen (Second reader: Glen Bull)
+
+Published as N. Rich Nguyen, Harsh Padhye, Eric Stein, and Glen Bull. [_TuneScope: Engaging Novices to Computational Thinking through Music_](https://dl.acm.org/doi/abs/10.1145/3478432.3499258).  In _53<sup>rd</sup> ACM Technical Symposium on Computer Science Education_ (Demonstration), March 2022.
+
+</div>
+
+**Jude Nanaw**, Highest Distinction
+<div class="indented">
+
+_Marcus: A Chatbot for Depression Screening Based on the PHQ-9 Assessment_  
+Advisor: Panagiotis Apostolellis (Second reader: Nicole Ruzek)
+
+Published as Patrick Toulme, Jude Nanaw, and Panagiotis Apostolellis. [_Marcus: A Chatbot for Depression Screening Based on the PHQ-9 Assessment_](http://www.thinkmind.org/index.php?view=article&articleid=achi_2023_4_70_20046). In _Sixteenth International Conference on Advances in Computer-Human Interactions_, April 2023.
+</div>
+
+**Tingwei Zhang**, Highest Distinction
+<div class="indented">
+
+_What Have We Learned About Black-box Attacks Against Classifiers?_  
+Advisor: David Evans (Second reader: Yuan Tian)
+</div>
+
 ## December 2022
 
 **Hanyu Liu**, High Distinction
