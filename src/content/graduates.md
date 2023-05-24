@@ -15,7 +15,7 @@ Published as N. Rich Nguyen, Harsh Padhye, Eric Stein, and Glen Bull. [_TuneScop
 **Jude Nanaw**, Highest Distinction
 <div class="indented">
 
-_Marcus: A Chatbot for Depression Screening Based on the PHQ-9 Assessment_  
+[_Marcus: A Chatbot for Depression Screening Based on the PHQ-9 Assessment_](/docs/nanaw2023.pdf)  
 Advisor: Panagiotis Apostolellis (Second reader: Nicole Ruzek)
 
 Published as Patrick Toulme, Jude Nanaw, and Panagiotis Apostolellis. [_Marcus: A Chatbot for Depression Screening Based on the PHQ-9 Assessment_](http://www.thinkmind.org/index.php?view=article&articleid=achi_2023_4_70_20046). In _Sixteenth International Conference on Advances in Computer-Human Interactions_, April 2023.
