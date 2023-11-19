@@ -110,6 +110,7 @@ Advisor: Seongkook Heo (Second reader: Gregory Gerling)
 
 [_Integrating Motion Capture Technology into Theatrical Performance_](/docs/zipor2022.pdf)  
 Advisor: Mona Kasra (Second reader: Panagiotis Apostolellis)
+Cavalier Daily, [_U.Va. alumna Karen Zipor makes a splash in the entertainment industry_](https://www.cavalierdaily.com/article/2023/11/u-va-alumna-karen-zipor-makes-a-splash-in-the-entertainment-industry), 17 November 2023.
 </div>
 
 
