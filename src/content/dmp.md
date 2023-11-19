@@ -42,7 +42,7 @@ You can find some examples of complete DMP papers here: [DMP Graduates](/graduat
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScjgTH1zWKb0B5yx2RizDS3A7SYwUKn5dFMDjOmsTVyfizAhQ/viewform?usp=sf_link"><b color:"#fafafa">DMP Application Form</b></a>
 </center>
 
-For May 2023 graduation, the deadline for submitting your DMP report is **Friday, 21 April 2023**:
+For May 2024 graduation, the deadline for submitting your DMP report is **Friday, 19 April 2024**:
 <center class="highlighted">
 <a href="https://forms.gle/bD9rLAGpVqm1KNAT6"><b color:"#fafafa">Submit DMP Report</b></a> 
 </center>
