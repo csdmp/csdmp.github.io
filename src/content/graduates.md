@@ -45,7 +45,8 @@ Advisor: Yanjun Qi (Second reader: Nada Basit)
 [_An Analysis of Gaussian Boson Sampling for Graph Isomorphism & Graph Classification using Supervised Machine Learning_ ](/docs/anteneh2022.pdf)  
 Advisor: Olivier Pfister (Second reader: Israel Klich)
 
-Published as [arxiv/2031.01232](https://arxiv.org/abs/2301.01232) and to appear in _Physical Review A_.
+Published as [_Sampling efficient graph classification using binary Gaussian boson sampling_](https://journals.aps.org/pra/accepted/b1073N7dNed1ca20311c4813a1769e23768a8f904) in Physical Review A (accepted November 2023). Also available as 
+[arxiv/2031.01232](https://arxiv.org/abs/2301.01232).
 </div>
 
 **Skylar Brodowski**, High Distinction
