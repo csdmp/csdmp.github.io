@@ -86,17 +86,15 @@ requirement listed on the BACS curriculum.
 prior to graduation. Spring graduates should submit their applications
 in by **29 April** of the year before graduation. Winter graduates,
 must have their applications in by **29 October** of the year before
-the winter graduation. (If these deadlines are missed, students can
-still join the DMP at the discrection of the DMP Director. In general,
-we are happy to have students join after the application deadline so
-long as they have a research project and advisor set before beginning
-the semester two semesters before they plan to graduate.)
+the winter graduation. 
+
+If these deadlines are missed, students can still join the DMP at the discrection of the DMP Director. In general, we are happy to have students join after the application deadline so long as they have a research project and advisor set before beginning the semester two semesters before they plan to graduate.
 
 Note that applying to the program occurs relatively early in the
 research process. It is not necessary to have a fully formed research
 idea to apply for the DMP, although it is expected that you have found
 a research advisor to work with. It is not necessary to have a second
-reader identified when you apply to join the DMP.
+reader identified when you apply to join the DMP. Once you've joined the DMP, the DMP Director will help you find a second reader.
 
 Students seeking to enter the DMP should complete the following steps:
 
