@@ -37,10 +37,7 @@ or better.
 
 You can find some examples of complete DMP papers here: [DMP Graduates](/graduates).
 
-
-<center class="highlighted">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScjgTH1zWKb0B5yx2RizDS3A7SYwUKn5dFMDjOmsTVyfizAhQ/viewform?usp=sf_link"><b color:"#fafafa">DMP Application Form</b></a>
-</center>
+For information on joining the DMP, see [_Joining the DMP_](#join).
 
 For May 2024 graduation, the deadline for submitting your DMP report is **Friday, 19 April 2024**:
 <center class="highlighted">
@@ -77,6 +74,7 @@ month prior to graduation.
 required for the major. That is, they cannot be used to fulfill any
 requirement listed on the BACS curriculum.
 
+<a name="join">
 ## Joining the DMP
 
 <center class="highlighted">
@@ -173,7 +171,9 @@ acceptable.
 
 **4. Submit the DMP application form and proposal.**
 
-Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScjgTH1zWKb0B5yx2RizDS3A7SYwUKn5dFMDjOmsTVyfizAhQ/viewform?usp=sf_link"><b>DMP Application</b></a>.
+Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScjgTH1zWKb0B5yx2RizDS3A7SYwUKn5dFMDjOmsTVyfizAhQ/viewform?usp=sf_link"><b>DMP Application</b></a>. 
+
+For students entering the DMP intending to graduate in Spring 2025, the deadline for submitting the application is **29 April 2024**.
 
 The application includes a very brief (expected to be no more than one
 page) research proposal describing your DMP project, which can be
@@ -216,8 +216,8 @@ advisor should specify any requirements for the DMP report, in
 consultation with the DMP director for any unusual situations.
 
 The DMP report must be completed and submitted at least thirty days
-prior to graduation. For May 2022 graduation, the deadline is
-**Friday, 22 April 2022**.
+prior to graduation. For May 2024 graduation, the deadline is
+**Friday, 19 April 2024**.
 
 DMP students should submit their DMP paper as a PDF attachment to an
 email to the DMP director (<a
