@@ -75,6 +75,7 @@ required for the major. That is, they cannot be used to fulfill any
 requirement listed on the BACS curriculum.
 
 <a name="join">
+
 ## Joining the DMP
 
 <center class="highlighted">
