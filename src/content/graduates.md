@@ -42,6 +42,9 @@ Published as Patrick Toulme, Jude Nanaw, and Panagiotis Apostolellis. [_Marcus: 
 
 _What Have We Learned About Black-box Attacks Against Classifiers?_  
 Advisor: David Evans (Second reader: Yuan Tian)
+
+Published in Fnu Suya, Anshuman Suri, Tingwei Zhang, Jingtao Hong, Yuan Tian, and David Evans. [_SoK: Pitfalls in Evaluating Black-Box Attacks_](https://arxiv.org/abs/2310.17534). In _2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). Toronto_, April 2024. 
+
 </div>
 
 ## December 2022
