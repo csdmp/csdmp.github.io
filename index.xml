@@ -6,21 +6,20 @@
     <description>Recent content on UVA CS DMP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://csdmp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DMP Requirements</title>
       <link>https://csdmp.github.io/dmp/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://csdmp.github.io/dmp/</guid>
-      <description>Congratuations to our 2023 Distinguished Majors Graduates!&#xA;Hanyu Liu (December 2022), Jude Nanaw, Harsh Padhye and Tingwei Zhang Distinguished Major in Computer Science Bachelor of Arts Computer Science majors who have completed 18 credit hours towards their major may apply to the Distinguished Majors Program. The DMP focuses on a creative student research project as advised and approved by an advisor.&#xA;Students who are accepted must complete a report based on two semesters of research.</description>
+      <description>Congratuations to our 2024 Distinguished Majors Graduates!&#xA;Wenyao Zhou and Yancheng Zhou&#xA;Distinguished Major in Computer Science Bachelor of Arts Computer Science majors who have completed 18 credit hours towards their major may apply to the Distinguished Majors Program. The DMP focuses on a creative student research project as advised and approved by an advisor.&#xA;Students who are accepted must complete a report based on two semesters of research. The Distinguished Majors Program features opportunities for students and advisors to collaborate on creative research; it is not a lock-step program with strict content requirements, but an opportunity to work closely with a professor on a project that is interesting and exciting to you.</description>
     </item>
     <item>
       <title></title>
       <link>https://csdmp.github.io/graduates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://csdmp.github.io/graduates/</guid>
-      <description>Distinguished Majors in Computer Science Spring 2023 Harsh Padhye, High Distinction&#xA;TuneScope: Synthesizing Music and Computational Thinking&#xA;Advisor: N. Rich Nguyen (Second reader: Glen Bull)&#xA;Published as N. Rich Nguyen, Harsh Padhye, Eric Stein, and Glen Bull. TuneScope: Engaging Novices to Computational Thinking through Music. In 53rd ACM Technical Symposium on Computer Science Education (Demonstration), March 2022.&#xA;Jude Nanaw, Highest Distinction&#xA;Marcus: A Chatbot for Depression Screening Based on the PHQ-9 Assessment</description>
+      <description>Distinguished Majors in Computer Science Spring 2024 Wenyao Zhou, High Distinction&#xA;[_Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation_](/docs/wenyao-zhou-2024.pdf) Advisor: Shangtong Zhang (Second reader: Chen-Yu Wei) Yancheng Zhou, High Distinction&#xA;[_Integrating LoRaWAN and TockOS for Secure, Low-power Geolocation Solutions_](/docs/yancheng-zhou-2024.pdf) Advisor: Brad Campbell (Second reader: Kun Qian) Spring 2023 Harsh Padhye, High Distinction&#xA;TuneScope: Synthesizing Music and Computational Thinking&#xA;Advisor: N. Rich Nguyen (Second reader: Glen Bull)&#xA;Published as N.</description>
     </item>
   </channel>
 </rss>

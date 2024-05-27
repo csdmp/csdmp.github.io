@@ -1,5 +1,19 @@
 # Distinguished Majors in Computer Science
 
+## Spring 2024
+
+**Wenyao Zhou**, High Distinction
+<div class="indented">
+[_Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation_](/docs/wenyao-zhou-2024.pdf)  
+Advisor: Shangtong Zhang (Second reader: Chen-Yu Wei)
+</div>
+
+**Yancheng Zhou**, High Distinction
+<div class="indented">
+[_Integrating LoRaWAN and TockOS for Secure, Low-power Geolocation Solutions_](/docs/yancheng-zhou-2024.pdf)  
+Advisor: Brad Campbell (Second reader: Kun Qian)
+</div>
+
 ## Spring 2023
 
 **Harsh Padhye**, High Distinction

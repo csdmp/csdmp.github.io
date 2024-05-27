@@ -9,10 +9,11 @@ slug = "dmp"
 
 <center class="highlighted">
 
-Congratuations to our [**2023 Distinguished Majors Graduates**!](/graduates)<br>
+Congratuations to our [**2024 Distinguished Majors Graduates**!](/graduates)<br>
 <font color="white">
-Hanyu&nbsp;Liu&nbsp;(December&nbsp;2022), Jude Nanaw, 
-Harsh&nbsp;Padhye&nbsp;and&nbsp;Tingwei&nbsp;Zhang
+<b>Wenyao&nbsp;Zhou</b> and 
+<b>Yancheng&nbsp;Zhou</b>
+
 </font></center>
 
 # Distinguished Major in Computer Science
@@ -39,7 +40,7 @@ You can find some examples of complete DMP papers here: [DMP Graduates](/graduat
 
 For information on joining the DMP, see [_Joining the DMP_](#join).
 
-For May 2024 graduation, the deadline for submitting your DMP report is **Friday, 19 April 2024**:
+For May 2025 graduation, the deadline for submitting your DMP report is **Friday, 18 April 2025**:
 <center class="highlighted">
 <a href="https://forms.gle/bD9rLAGpVqm1KNAT6"><b color:"#fafafa">Submit DMP Report</b></a> 
 </center>
