@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UVA CS DMP</title>
-    <link>http://localhost:1313/</link>
+    <link>https://csdmp.github.io/</link>
     <description>Recent content on UVA CS DMP</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://csdmp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DMP Requirements</title>
-      <link>http://localhost:1313/dmp/</link>
+      <link>https://csdmp.github.io/dmp/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dmp/</guid>
+      <guid>https://csdmp.github.io/dmp/</guid>
       <description>&lt;center class=&#34;highlighted&#34;&gt;&#xA;&lt;p&gt;The deadline to &lt;a href=&#34;#completing-the-dmp&#34;&gt;&lt;strong&gt;submit your DMP report&lt;/strong&gt;&lt;/a&gt; for May 2025 graduation is&#xA;&lt;font color=&#34;white&#34;&gt;&#xA;&lt;b&gt;April 18, 2025&lt;/b&gt;&#xA;&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;The deadline to &lt;a href=&#34;#join&#34;&gt;&lt;strong&gt;submit your DMP application&lt;/strong&gt;&lt;/a&gt; for May 2026 graduation is&#xA;&lt;font color=&#34;white&#34;&gt;&#xA;&lt;b&gt;April 29, 2025&lt;/b&gt;&#xA;&lt;/font&gt;&lt;/p&gt;&#xA;&lt;/center&gt;&#xA;&lt;h1 id=&#34;distinguished-major-in-computer-science&#34;&gt;Distinguished Major in Computer Science&lt;/h1&gt;&#xA;&lt;p&gt;Bachelor of Arts Computer Science majors who have completed 18 credit&#xA;hours towards their major may apply to the &lt;strong&gt;Distinguished Majors&#xA;Program&lt;/strong&gt;. The DMP focuses on a creative student research project as&#xA;advised and approved by an advisor.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/graduates/</link>
+      <link>https://csdmp.github.io/graduates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/graduates/</guid>
-      <description>&lt;h1 id=&#34;distinguished-majors-in-computer-science&#34;&gt;Distinguished Majors in Computer Science&lt;/h1&gt;&#xA;&lt;h2 id=&#34;fall-2024&#34;&gt;Fall 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clarence Chen&lt;/strong&gt;, Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/docs/clarence-chen-2024.pdf&#34;&gt;&lt;em&gt;Exploring Emergent Social Behavior in Large Language Models and Independent Q-Learning Agents&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;Advisor: Chen-Yu Wei (Second reader: Matheus V. X. Ferreira)&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;spring-2024&#34;&gt;Spring 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wenyao Zhou&lt;/strong&gt;, High Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/docs/wenyao-zhou-2024.pdf&#34;&gt;&lt;em&gt;Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;Advisor: Shangtong Zhang (Second reader: Chen-Yu Wei)&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;Yancheng Zhou&lt;/strong&gt;, High Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/docs/yancheng-zhou-2024.pdf&#34;&gt;&lt;em&gt;Integrating LoRaWAN and TockOS for Secure, Low-power Geolocation Solutions&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;Advisor: Brad Campbell (Second reader: Kun Qian)&lt;/p&gt;</description>
+      <guid>https://csdmp.github.io/graduates/</guid>
+      <description>&lt;h1 id=&#34;distinguished-majors-in-computer-science&#34;&gt;Distinguished Majors in Computer Science&lt;/h1&gt;&#xA;&lt;h2 id=&#34;fall-2024&#34;&gt;Fall 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clarence Chen&lt;/strong&gt;, Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://csdmp.github.io/docs/clarence-chen-2024.pdf&#34;&gt;&lt;em&gt;Exploring Emergent Social Behavior in Large Language Models and Independent Q-Learning Agents&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;Advisor: Chen-Yu Wei (Second reader: Matheus V. X. Ferreira)&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;spring-2024&#34;&gt;Spring 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wenyao Zhou&lt;/strong&gt;, High Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://csdmp.github.io/docs/wenyao-zhou-2024.pdf&#34;&gt;&lt;em&gt;Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;Advisor: Shangtong Zhang (Second reader: Chen-Yu Wei)&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;Yancheng Zhou&lt;/strong&gt;, High Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://csdmp.github.io/docs/yancheng-zhou-2024.pdf&#34;&gt;&lt;em&gt;Integrating LoRaWAN and TockOS for Secure, Low-power Geolocation Solutions&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;Advisor: Brad Campbell (Second reader: Kun Qian)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
