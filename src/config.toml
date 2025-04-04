@@ -5,8 +5,8 @@ subtitle = "University of Virginia Distinguished Major in Computer Science"
 copyright = ""
 theme = "toc"
 
-paginate = 10
-paginatePath = "page"
+pagination.pagerSize = 10
+pagination.path = "page"
 
 pageNotFoundTitle = "Not Found"
 pageNotFoundDetail = "Your request cannot be resolved in the current axiomatic system. This could be because you have discovered a contradiction to Cantor's Continuum Hypothesis, but it is most likely a bad link or mistyped URL. If its a broken link, please let us know."

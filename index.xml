@@ -4,22 +4,23 @@
     <title>UVA CS DMP</title>
     <link>https://csdmp.github.io/</link>
     <description>Recent content on UVA CS DMP</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://csdmp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DMP Requirements</title>
       <link>https://csdmp.github.io/dmp/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://csdmp.github.io/dmp/</guid>
-      <description>Congratuations to our 2024 Distinguished Majors Graduates!&#xA;Wenyao Zhou and Yancheng Zhou&#xA;Distinguished Major in Computer Science Bachelor of Arts Computer Science majors who have completed 18 credit hours towards their major may apply to the Distinguished Majors Program. The DMP focuses on a creative student research project as advised and approved by an advisor.&#xA;Students who are accepted must complete a report based on two semesters of research. The Distinguished Majors Program features opportunities for students and advisors to collaborate on creative research; it is not a lock-step program with strict content requirements, but an opportunity to work closely with a professor on a project that is interesting and exciting to you.</description>
+      <description>&lt;center class=&#34;highlighted&#34;&gt;&#xA;&lt;p&gt;The deadline to &lt;a href=&#34;#completing-the-dmp&#34;&gt;&lt;strong&gt;submit your DMP report&lt;/strong&gt;&lt;/a&gt; for May 2025 graduation is&#xA;&lt;font color=&#34;white&#34;&gt;&#xA;&lt;b&gt;April 18, 2025&lt;/b&gt;&#xA;&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;The deadline to &lt;a href=&#34;#join&#34;&gt;&lt;strong&gt;submit your DMP application&lt;/strong&gt;&lt;/a&gt; for May 2026 graduation is&#xA;&lt;font color=&#34;white&#34;&gt;&#xA;&lt;b&gt;April 29, 2025&lt;/b&gt;&#xA;&lt;/font&gt;&lt;/p&gt;&#xA;&lt;/center&gt;&#xA;&lt;h1 id=&#34;distinguished-major-in-computer-science&#34;&gt;Distinguished Major in Computer Science&lt;/h1&gt;&#xA;&lt;p&gt;Bachelor of Arts Computer Science majors who have completed 18 credit&#xA;hours towards their major may apply to the &lt;strong&gt;Distinguished Majors&#xA;Program&lt;/strong&gt;. The DMP focuses on a creative student research project as&#xA;advised and approved by an advisor.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://csdmp.github.io/graduates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://csdmp.github.io/graduates/</guid>
-      <description>Distinguished Majors in Computer Science Spring 2024 Wenyao Zhou, High Distinction&#xA;Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation&#xA;Advisor: Shangtong Zhang (Second reader: Chen-Yu Wei)&#xA;Yancheng Zhou, High Distinction&#xA;Integrating LoRaWAN and TockOS for Secure, Low-power Geolocation Solutions&#xA;Advisor: Brad Campbell (Second reader: Kun Qian)&#xA;Spring 2023 Harsh Padhye, High Distinction&#xA;TuneScope: Synthesizing Music and Computational Thinking&#xA;Advisor: N. Rich Nguyen (Second reader: Glen Bull)&#xA;Published as N.</description>
+      <description>&lt;h1 id=&#34;distinguished-majors-in-computer-science&#34;&gt;Distinguished Majors in Computer Science&lt;/h1&gt;&#xA;&lt;h2 id=&#34;fall-2024&#34;&gt;Fall 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clarence Chen&lt;/strong&gt;, Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://csdmp.github.io/docs/clarence-chen-2024.pdf&#34;&gt;&lt;em&gt;Exploring Emergent Social Behavior in Large Language Models and Independent Q-Learning Agents&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;Advisor: Chen-Yu Wei (Second reader: Matheus V. X. Ferreira)&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;spring-2024&#34;&gt;Spring 2024&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wenyao Zhou&lt;/strong&gt;, High Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://csdmp.github.io/docs/wenyao-zhou-2024.pdf&#34;&gt;&lt;em&gt;Stock Trading with Reinforcement Learning: Average Reward Agent and Alpha Preservation&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;Advisor: Shangtong Zhang (Second reader: Chen-Yu Wei)&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;Yancheng Zhou&lt;/strong&gt;, High Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://csdmp.github.io/docs/yancheng-zhou-2024.pdf&#34;&gt;&lt;em&gt;Integrating LoRaWAN and TockOS for Secure, Low-power Geolocation Solutions&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;Advisor: Brad Campbell (Second reader: Kun Qian)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

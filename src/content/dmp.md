@@ -9,12 +9,18 @@ slug = "dmp"
 
 <center class="highlighted">
 
-Congratuations to our [**2024 Distinguished Majors Graduates**!](/graduates)<br>
+The deadline to [**submit your DMP report**](#completing-the-dmp) for May 2025 graduation is 
 <font color="white">
-<b>Wenyao&nbsp;Zhou</b> and 
-<b>Yancheng&nbsp;Zhou</b>
+<b>April 18, 2025</b>
+</font>
 
-</font></center>
+The deadline to [**submit your DMP application**](#join) for May 2026 graduation is 
+<font color="white">
+<b>April 29, 2025</b>
+</font>
+
+
+</center>
 
 # Distinguished Major in Computer Science
 
@@ -42,12 +48,12 @@ For information on joining the DMP, see [_Joining the DMP_](#join).
 
 For May 2025 graduation, the deadline for submitting your DMP report is **Friday, 18 April 2025**:
 <center class="highlighted">
-<a href="https://forms.gle/bD9rLAGpVqm1KNAT6"><b color:"#fafafa">Submit DMP Report</b></a> 
+<a href="https://forms.gle/r5iowjCjXurRYC8t5"><b color:"#fafafa">Submit DMP Report</b></a> 
 </center>
 
 For more information on the DMP, contact the **DMP Director**:
-David Evans (<a href="https://www.cs.virginia.edu/evans/office">https://www.cs.virginia.edu/evans/office</a>, <a
-href="mailto:evans@virginia.edu">evans@virginia.edu</a>).
+Yixin Sun (<a href="https://www.cs.virginia.edu/~ys3kz">https://www.cs.virginia.edu/~ys3kz</a>, <a
+href="mailto:yixins@virginia.edu">yixins@virginia.edu</a>).
 
 ## Distinguished Majors Program Requirements
 
@@ -80,7 +86,7 @@ requirement listed on the BACS curriculum.
 ## Joining the DMP
 
 <center class="highlighted">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScjgTH1zWKb0B5yx2RizDS3A7SYwUKn5dFMDjOmsTVyfizAhQ/viewform?usp=sf_link"><b color:"#fafafa">DMP Application Form</b></a>
+<a href="https://forms.gle/MtZpgvPkxm5j8zpU6"><b color:"#fafafa">DMP Application Form</b></a>
 </center>
 
 **Application Deadline:** Students must apply by the third semester
@@ -171,16 +177,16 @@ acceptable.
 
 **4. Submit the DMP application form and proposal.**
 
-Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLScjgTH1zWKb0B5yx2RizDS3A7SYwUKn5dFMDjOmsTVyfizAhQ/viewform?usp=sf_link"><b>DMP Application</b></a>. 
+Complete the <a href="https://forms.gle/MtZpgvPkxm5j8zpU6"><b>DMP Application</b></a>. 
 
-For students entering the DMP intending to graduate in Spring 2025, the deadline for submitting the application is **29 April 2024**.
+For students entering the DMP intending to graduate in Spring 2026, the deadline for submitting the application is **29 April 2025**.
 
 The application includes a very brief (expected to be no more than one
 page) research proposal describing your DMP project, which can be
 submitted as either plaintext or an attached PDF file. After
 submitting the form, you should receive a notification regarding
 acceptance within one week (so feel free to follow-up with the DMP
-Director, <a href="mailto:evans@virginia.edu">evans@virginia.edu</a>,
+Director, <a href="mailto:yixins@virginia.edu">yixins@virginia.edu</a>,
 if you do not receive a response by then).
 
 ### Collaboration
@@ -216,14 +222,17 @@ advisor should specify any requirements for the DMP report, in
 consultation with the DMP director for any unusual situations.
 
 The DMP report must be completed and submitted at least thirty days
-prior to graduation. For May 2024 graduation, the deadline is
-**Friday, 19 April 2024**.
+prior to graduation. For May 2025 graduation, the deadline is
+**Friday, 18 April 2025**.
 
-DMP students should submit their DMP paper as a PDF attachment to an
-email to the DMP director (<a
-href="mailto:evans@virginia.edu">evans@virginia.edu</a>), their
-advisor and second reader, by the required deadline (30 days before
-graduation). The DMP director will follow-up with the student's
+<center class="highlighted">
+<a href="https://forms.gle/r5iowjCjXurRYC8t5"><b color:"#fafafa">Submit DMP Report</b></a> 
+</center>
+
+DMP students should submit their DMP paper, along with additional information 
+such as the names of advisor and second reader, through the above link 
+by the required deadline (30 days before graduation). 
+The DMP director will follow-up with the student's
 advisor and second reader to obtain the necessary evaluations.
 
 **Evaluation.** Students will usually receive a

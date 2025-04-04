@@ -5,8 +5,8 @@ subtitle = "University of Virginia Distinguished Major in Computer Science"
 copyright = ""
 theme = "toc"
 
-paginate = 10
-paginatePath = "page"
+pagination.pagerSize = 10
+pagination.path = "page"
 
 pageNotFoundTitle = "Not Found"
 pageNotFoundDetail = "Your request cannot be resolved in the current axiomatic system. This could be because you have discovered a contradiction to Cantor's Continuum Hypothesis, but it is most likely a bad link or mistyped URL. If its a broken link, please let us know."
@@ -29,7 +29,7 @@ unsafe= true
 [params]
     brand = "Distinguished Major in Computer Science"
     topline = "UVA CS DMP"
-    footline = "<p align=\"center\">University of Virginia | <a href=\"https://www.cs.virginia.edu/">Distinguished Major in Computer Science</a></p>"
+    footline = "<p align=\"center\">University of Virginia | <a href=\"https://www.cs.virginia.edu/\">Distinguished Major in Computer Science</a></p>"
     sidebar = "left"
     nodate = true
     noauthor = true

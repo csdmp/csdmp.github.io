@@ -1,5 +1,14 @@
 # Distinguished Majors in Computer Science
 
+## Fall 2024
+
+**Clarence Chen**, Distinction
+<div class="indented">
+
+[_Exploring Emergent Social Behavior in Large Language Models and Independent Q-Learning Agents_](/docs/clarence-chen-2024.pdf)  
+Advisor: Chen-Yu Wei (Second reader: Matheus V. X. Ferreira)
+</div>
+
 ## Spring 2024
 
 **Wenyao Zhou**, High Distinction
