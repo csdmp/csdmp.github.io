@@ -1,5 +1,113 @@
 # Distinguished Majors in Computer Science
 
+## Spring 2025
+
+**Niket Anand**, High Distinction
+<div class="indented">
+
+_Fusing Vision and Context: A Multimodal Clustering Framework for Flood Intelligence_  
+Advisor: Rich Nguyen (Second reader: Zezhou Cheng)
+</div>
+
+**Lars Christensen**, High Distinction
+<div class="indented">
+
+_Capability-Secured BTB_  
+Advisor: Ashish Venkat (Second reader: Kevin Skadron)
+</div>
+
+**Sebastian Fugle**, Distinction
+<div class="indented">
+
+_Unmask: On Portraying Social Struggles Associated With Autism_  
+Advisor: Mark Sherriff (Second reader: Eve Danziger)
+</div>
+
+**Hao Gu**, Highest Distinction
+<div class="indented">
+
+_Open Vocabulary Monocular 3D Object Detection_  
+Advisor: Zezhou Cheng (Second reader: Yen-Ling Kuo)
+</div>
+
+**Yusuf Hacking**, Distinction
+<div class="indented">
+
+_Dirty Code: The Limits of Language in The Art of Programming_  
+Advisor: Rafael Alvarado (Second reader: David Evans)
+</div>
+
+**Jacob Hobbs**, High Distinction
+<div class="indented">
+
+_Theories of "Sexuality" in Natural Language Processing Bias Research_  
+Advisor: Briana Morrison (Second reader: Isabel Gonzales)
+</div>
+
+**Liran Li**, High Distinction
+<div class="indented">
+
+_Optimal Cache-Agnostic Oblivious Tight Compaction_  
+Advisor: Wei-Kai Lin (Second reader: Mark Floryan)
+</div>
+
+**Zixu Li**, High Distinction
+<div class="indented">
+
+_HydroFedNet: Efficient Hierarchical Federated Learning for Urban Flood Forecasting_  
+Advisor: Rich Nguyen (Second reader: Jundong Li)
+</div>
+
+**Vagul Mahadevan**, Highest Distinction
+<div class="indented">
+
+_The Stability of Two-Timescale Stochastic Approximation with Markovian Noise for Reinforcement Learning_  
+Advisor: Shangtong Zhang (Second reader: Rohan Chandra)
+</div>
+
+**Vikram Ostrander**, High Distinction
+<div class="indented">
+
+_Mamba Can Perform Temporal Difference Learning for In-Context Reinforcement Learning_  
+Advisor: Shangtong Zhang (Second reader: Chen-Yu Wei)
+</div>
+
+**Jean Quinn**, High Distinction
+<div class="indented">
+
+_Data-Driven School Commutes_  
+Advisor: Anil Vullikanti (Second reader: Chris Parker)
+</div>
+
+**Vainateya Rangaraju**, High Distinction
+<div class="indented">
+
+_Federated Learning for Data Scarce Urban Weather Prediction_  
+Advisor: Rich Nguyen (Second reader: Jonathan Goodall)
+</div>
+
+**Jameson Sandler**, Highest Distinction
+<div class="indented">
+
+_Disparate Speed Up Rates In Speculative Generation_  
+Advisor: Ferdinando Fioretto (Second reader: Marco Romanelli)
+</div>
+
+**Alice Wanner**, High Distinction
+<div class="indented">
+
+_Modeling Vegetation Dynamics at the Arctic Treeline: The Impact of Reindeer Grazing_  
+Advisor: Howard Epstein (Second reader: Brad Campbell)
+</div>
+
+**Ruiyang Zhou**, Highest Distinction
+<div class="indented">
+
+_Design a Tool to Assist Mixing and Mastering with Reference Audio_  
+Advisor: Tom Fletcher (Second reader: Luke Dahl)
+</div>
+
+
 ## Fall 2024
 
 **Clarence Chen**, Distinction

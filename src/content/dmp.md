@@ -9,14 +9,14 @@ slug = "dmp"
 
 <center class="highlighted">
 
-The deadline to [**submit your DMP report**](#completing-the-dmp) for May 2025 graduation is 
+The deadline to [**submit your DMP report**](#completing-the-dmp) for May 2026 graduation is 
 <font color="white">
-<b>April 18, 2025</b>
+<b>April 20, 2026</b>
 </font>
 
-The deadline to [**submit your DMP application**](#join) for May 2026 graduation is 
+The deadline to [**submit your DMP application**](#join) for May 2027 graduation is 
 <font color="white">
-<b>April 29, 2025</b>
+<b>May 1, 2026</b>
 </font>
 
 
@@ -46,7 +46,7 @@ You can find some examples of complete DMP papers here: [DMP Graduates](/graduat
 
 For information on joining the DMP, see [_Joining the DMP_](#join).
 
-For May 2025 graduation, the deadline for submitting your DMP report is **Friday, 18 April 2025**:
+For May 2026 graduation, the deadline for submitting your DMP report is **Monday, 20 April 2026**:
 <center class="highlighted">
 <a href="https://forms.gle/r5iowjCjXurRYC8t5"><b color:"#fafafa">Submit DMP Report</b></a> 
 </center>
@@ -91,8 +91,8 @@ requirement listed on the BACS curriculum.
 
 **Application Deadline:** Students must apply by the third semester
 prior to graduation. Spring graduates should submit their applications
-in by **29 April** of the year before graduation. Winter graduates,
-must have their applications in by **29 October** of the year before
+in by **May 1** of the year before graduation. Winter graduates,
+must have their applications in by **Nov 1** of the year before
 the winter graduation. 
 
 If these deadlines are missed, students can still join the DMP at the discrection of the DMP Director. In general, we are happy to have students join after the application deadline so long as they have a research project and advisor set before beginning the semester two semesters before they plan to graduate.
@@ -179,7 +179,7 @@ acceptable.
 
 Complete the <a href="https://forms.gle/MtZpgvPkxm5j8zpU6"><b>DMP Application</b></a>. 
 
-For students entering the DMP intending to graduate in Spring 2026, the deadline for submitting the application is **29 April 2025**.
+For students entering the DMP intending to graduate in Spring 2027, the deadline for submitting the application is **1 May 2026**.
 
 The application includes a very brief (expected to be no more than one
 page) research proposal describing your DMP project, which can be
@@ -222,8 +222,8 @@ advisor should specify any requirements for the DMP report, in
 consultation with the DMP director for any unusual situations.
 
 The DMP report must be completed and submitted at least thirty days
-prior to graduation. For May 2025 graduation, the deadline is
-**Friday, 18 April 2025**.
+prior to graduation. For May 2026 graduation, the deadline is
+**Monday, 20 April 2026**.
 
 <center class="highlighted">
 <a href="https://forms.gle/r5iowjCjXurRYC8t5"><b color:"#fafafa">Submit DMP Report</b></a> 
