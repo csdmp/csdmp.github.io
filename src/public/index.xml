@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UVA CS DMP</title>
-    <link>http://localhost:1313/</link>
+    <link>https://csdmp.github.io/</link>
     <description>Recent content on UVA CS DMP</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://csdmp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DMP Requirements</title>
-      <link>http://localhost:1313/dmp/</link>
+      <link>https://csdmp.github.io/dmp/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dmp/</guid>
+      <guid>https://csdmp.github.io/dmp/</guid>
       <description>&lt;center class=&#34;highlighted&#34;&gt;&#xA;&lt;p&gt;The deadline to &lt;a href=&#34;#completing-the-dmp&#34;&gt;&lt;strong&gt;submit your DMP report&lt;/strong&gt;&lt;/a&gt; for May 2026 graduation is&#xA;&lt;font color=&#34;white&#34;&gt;&#xA;&lt;b&gt;April 20, 2026&lt;/b&gt;&#xA;&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;The deadline to &lt;a href=&#34;#join&#34;&gt;&lt;strong&gt;submit your DMP application&lt;/strong&gt;&lt;/a&gt; for May 2027 graduation is&#xA;&lt;font color=&#34;white&#34;&gt;&#xA;&lt;b&gt;May 1, 2026&lt;/b&gt;&#xA;&lt;/font&gt;&lt;/p&gt;&#xA;&lt;/center&gt;&#xA;&lt;h1 id=&#34;distinguished-major-in-computer-science&#34;&gt;Distinguished Major in Computer Science&lt;/h1&gt;&#xA;&lt;p&gt;Bachelor of Arts Computer Science majors who have completed 18 credit&#xA;hours towards their major may apply to the &lt;strong&gt;Distinguished Majors&#xA;Program&lt;/strong&gt;. The DMP focuses on a creative student research project as&#xA;advised and approved by an advisor.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/graduates/</link>
+      <link>https://csdmp.github.io/graduates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/graduates/</guid>
+      <guid>https://csdmp.github.io/graduates/</guid>
       <description>&lt;h1 id=&#34;distinguished-majors-in-computer-science&#34;&gt;Distinguished Majors in Computer Science&lt;/h1&gt;&#xA;&lt;h2 id=&#34;spring-2025&#34;&gt;Spring 2025&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Niket Anand&lt;/strong&gt;, High Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;Fusing Vision and Context: A Multimodal Clustering Framework for Flood Intelligence&lt;/em&gt;&lt;br&gt;&#xA;Advisor: Rich Nguyen (Second reader: Zezhou Cheng)&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lars Christensen&lt;/strong&gt;, High Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;Capability-Secured BTB&lt;/em&gt;&lt;br&gt;&#xA;Advisor: Ashish Venkat (Second reader: Kevin Skadron)&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sebastian Fugle&lt;/strong&gt;, Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;Unmask: On Portraying Social Struggles Associated With Autism&lt;/em&gt;&lt;br&gt;&#xA;Advisor: Mark Sherriff (Second reader: Eve Danziger)&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hao Gu&lt;/strong&gt;, Highest Distinction&lt;/p&gt;&#xA;&lt;div class=&#34;indented&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;Open Vocabulary Monocular 3D Object Detection&lt;/em&gt;&lt;br&gt;&#xA;Advisor: Zezhou Cheng (Second reader: Yen-Ling Kuo)&lt;/p&gt;</description>
     </item>
   </channel>
