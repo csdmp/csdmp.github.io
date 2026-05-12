@@ -2,7 +2,7 @@
 
 ## Spring 2026
 
-**Thomas Bakewelld**, Highest Distinction
+**Thomas Bakewell**, Highest Distinction
 <div class="indented">
 
 _A Register Tracking Scheme for the Gem5 Simulator_  
