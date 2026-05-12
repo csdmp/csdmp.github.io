@@ -9,16 +9,17 @@ slug = "dmp"
 
 <center class="highlighted">
 
-The deadline to [**submit your DMP report**](#completing-the-dmp) for May 2026 graduation is 
-<font color="white">
-<b>April 20, 2026</b>
-</font>
+Congratulations to our [**2026 Distinguished Majors Graduates**!](/graduates)
 
-The deadline to [**submit your DMP application**](#join) for May 2027 graduation is 
 <font color="white">
-<b>May 1, 2026</b>
-</font>
+<b>Thomas Bakewell</b>, 
+<b>Hugo Barnes</b>,
+<b>Clara Grimmelbein</b>,
 
+<b>Rajiv Koliwad</b>,
+<b>Daniel Lee</b>,
+<b>Charlie Meyer</b>
+</font>
 
 </center>
 
@@ -96,6 +97,8 @@ must have their applications in by **Nov 1** of the year before
 the winter graduation. 
 
 If these deadlines are missed, students can still join the DMP at the discrection of the DMP Director. In general, we are happy to have students join after the application deadline so long as they have a research project and advisor set before beginning the semester two semesters before they plan to graduate.
+
+**For Spring 2027 graduates:** If you missed the May 1 deadline but are still interested in the DMP, please contact the DMP director.
 
 Note that applying to the program occurs relatively early in the
 research process. It is not necessary to have a fully formed research

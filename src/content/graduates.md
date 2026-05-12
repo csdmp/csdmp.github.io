@@ -1,5 +1,50 @@
 # Distinguished Majors in Computer Science
 
+## Spring 2026
+
+**Thomas Bakewelld**, Highest Distinction
+<div class="indented">
+
+_A Register Tracking Scheme for the Gem5 Simulator_  
+Advisor: Ashish Venkat (Second reader: Kevin Skadron)
+</div>
+
+**Hugo Barnes**, High Distinction
+<div class="indented">
+
+_Strategies in Evaluating Voronoi Diagrams for Informing Game Strategy in Women's College Soccer_  
+Advisor: Tom Hartvigsen (Second reader: Zezhou Cheng)
+</div>
+
+**Clara Grimmelbein**, High Distinction
+<div class="indented">
+
+_The Limits of Temporal Prediction in Short-Form Video: Transformer Sequence Modeling and Evidence for Variable Reinforcement on TikTok_  
+Advisor: Yixin Sun (Second reader: Sara Riggs)
+</div>
+
+**Rajiv Koliwad**, High Distinction
+<div class="indented">
+
+_Unlocking Clinical Data with Reinforcement Learning_  
+Advisor: Yangfeng Ji (Second reader: Rohit Vashist)
+</div>
+
+**Daniel Lee**, High Distinction
+<div class="indented">
+
+_Two-Body Lattice Effective Field Theory Models using Parametric Matrix Models_  
+Advisor: Dean Lee (Second reader: Tom Fletcher)
+</div>
+
+**Charlie Meyer**, High Distinction
+<div class="indented">
+
+_LEANADAPT: Adapting Neural Theorem Provers to Evolving Proof Environments_  
+Advisor: Yu Meng (Second reader: Yangfeng Ji)
+</div>
+
+
 ## Spring 2025
 
 **Niket Anand**, High Distinction
