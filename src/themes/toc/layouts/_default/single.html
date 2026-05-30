@@ -1,25 +1,14 @@
-{{ define "top-bar-right" }}
-{{ partial "share.html" $ }}
-{{ end }}
-{{ define "title-bar-right" }}
-{{ partial "share.html" $ }}
-{{ end }}
-{{ define "whatisthis" }}
-{{ partial "whatisthis.html" . }}
-{{ end }}
 {{ define "main" }}
-
-<div class="content">
-    <article class="article" itemscope itemtype="http://schema.org/Article">
-      <h1 itemprop="name" class="pagetitle">{{ .Title }}</h1>
-      <div class="post-body" itemprop="articleBody">
-        {{ .Content }}
-      </div>
-
-      <meta itemprop="wordCount" content="{{ .WordCount }}">
-      <meta itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
-      <meta itemprop="url" content="{{ .Permalink }}">
-    </article>
-</div>
-
+<article class="content content--single" itemscope itemtype="http://schema.org/Article">
+  <header class="page-title">
+    <p class="eyebrow">UVA CS DMP</p>
+    <h1 itemprop="name">{{ .Title }}</h1>
+  </header>
+  <div itemprop="articleBody">
+    {{ .Content }}
+  </div>
+  <meta itemprop="wordCount" content="{{ .WordCount }}">
+  <meta itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
+  <meta itemprop="url" content="{{ .Permalink }}">
+</article>
 {{ end }}

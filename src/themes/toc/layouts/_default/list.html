@@ -1,11 +1,12 @@
 {{ define "main" }}
-<div class="row">
-  <div class="column small-12">
-    {{ $paginator := .Paginate .Data.Pages }}
-    {{ range $paginator.Pages }}
+<article class="content content--single">
+  <header class="page-title">
+    <p class="eyebrow">UVA CS DMP</p>
+    <h1>{{ .Title }}</h1>
+  </header>
+  {{ .Content }}
+  {{ range .Pages }}
     {{ partial "post-summary" . }}
-    {{ end }}
-    {{ partial "pagination" . }}
-  </div>
-</div>
+  {{ end }}
+</article>
 {{ end }}

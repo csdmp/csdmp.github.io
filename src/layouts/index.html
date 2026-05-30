@@ -1,64 +1,37 @@
 {{ define "main" }}
-{{ $posts_title := index .Site.Params "posts_title" | default "Posts" }}
-{{ $posts_count := index .Site.Params "posts_count" | default 5 }}
-{{ $pubs_title := index .Site.Params "pubs_title" | default "Publications" }}
-{{ $pubs_count := index .Site.Params "pubs_count" | default 5 }}
+{{ $dmp := .Site.GetPage "dmp" }}
+<section class="hero">
+  <div class="hero__inner">
+    <p class="eyebrow">University of Virginia</p>
+    <h1>Distinguished Major in<br>Computer Science</h1>
+    <p class="hero__lede">A research-focused path for BACS students to pursue a creative project with faculty advising and graduate with distinction.</p>
+    <div class="hero__actions">
+      <a class="button button--primary" href="#join">Apply to the DMP</a>
+      <a class="button button--secondary" href="{{ "graduates/" | relURL }}">View graduates</a>
+    </div>
+  </div>
+</section>
 
-   <div class="container">       
-   <div class="sidebar">
-   <p>
-University of Virginia<Br>
-<em>Distinguished Major in Computer Science</em>
-</p>
-   
-<p></p>
+<div class="page-shell">
+  <aside class="sidebar" aria-label="Program details">
+    <div class="sidebar__section">
+      <h2>Key Links</h2>
+      <a href="#join">Joining the DMP</a>
+      <a href="{{ "graduates/" | relURL }}">DMP Graduates</a>
+      <a href="https://forms.gle/MtZpgvPkxm5j8zpU6">Application Form</a>
+      <a href="https://forms.gle/r5iowjCjXurRYC8t5">Submit Report</a>
+    </div>
+    <div class="sidebar__section">
+      <h2>Contact</h2>
+      <p>DMP Director</p>
+      <p><a href="https://www.cs.virginia.edu/~ys3kz">Yixin Sun</a><br><a href="mailto:yixins@virginia.edu">yixins@virginia.edu</a></p>
+    </div>
+  </aside>
 
-
-<p>
-  <b><a href="/graduates/">Graduates</a></b>
-</p>
-  
-<!--   <p>
-   <b><a href="/post/">Recent Posts</a></b>
-   {{ range first 15 (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
-   <div class="posttitle">
-      {{ partial "post-title" . }}
-   </div>
-   {{ end }}
-   -->
-   </p>
-
-   <p><br></br><br></br><br></br><br></br><br></br><br></br></p>
-      <p>
-	DMP Director: <br>
-	<a href="https://www.cs.virginia.edu/~ys3kz">Yixin Sun</a>
-   </p>
-
-   </div>
-
-
-    <div class="content">
-
-    {{ range .Site.Pages }}
-           {{ .Content }}
+  <article class="content content--home">
+    {{ with $dmp }}
+      {{ .Content }}
     {{ end }}
-
-    
-    {{ range first $posts_count (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
-    {{ partial "post-full-summary" . }}
-    {{ end }}
-
-   
-<!--
-    <footer>
-      <nav>
-	<a href="/post/" class="button hollow primary">All {{ $posts_title }}</a>
-      </nav>
-    </footer>
--->
-
+  </article>
 </div>
-</div>
-
 {{ end }}
-

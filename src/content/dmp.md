@@ -7,11 +7,10 @@ slug = "dmp"
 +++
 
 
-<center class="highlighted">
+<div class="notice">
 
 Congratulations to our [**2026 Distinguished Majors Graduates**!](/graduates)
 
-<font color="white">
 <b>Thomas Bakewell</b>, 
 <b>Hugo Barnes</b>,
 <b>Clara Grimmelbein</b>,
@@ -19,9 +18,8 @@ Congratulations to our [**2026 Distinguished Majors Graduates**!](/graduates)
 <b>Rajiv Koliwad</b>,
 <b>Daniel Lee</b>,
 <b>Charlie Meyer</b>
-</font>
 
-</center>
+</div>
 
 # Distinguished Major in Computer Science
 
@@ -48,9 +46,9 @@ You can find some examples of complete DMP papers here: [DMP Graduates](/graduat
 For information on joining the DMP, see [_Joining the DMP_](#join).
 
 For May 2026 graduation, the deadline for submitting your DMP report is **Monday, 20 April 2026**:
-<center class="highlighted">
-<a href="https://forms.gle/r5iowjCjXurRYC8t5"><b color:"#fafafa">Submit DMP Report</b></a> 
-</center>
+<div class="notice">
+<a class="button button--secondary" href="https://forms.gle/r5iowjCjXurRYC8t5">Submit DMP Report</a>
+</div>
 
 For more information on the DMP, contact the **DMP Director**:
 Yixin Sun (<a href="https://www.cs.virginia.edu/~ys3kz">https://www.cs.virginia.edu/~ys3kz</a>, <a
@@ -82,13 +80,13 @@ month prior to graduation.
 required for the major. That is, they cannot be used to fulfill any
 requirement listed on the BACS curriculum.
 
-<a name="join">
+<a id="join"></a>
 
 ## Joining the DMP
 
-<center class="highlighted">
-<a href="https://forms.gle/MtZpgvPkxm5j8zpU6"><b color:"#fafafa">DMP Application Form</b></a>
-</center>
+<div class="notice">
+<a class="button button--secondary" href="https://forms.gle/MtZpgvPkxm5j8zpU6">DMP Application Form</a>
+</div>
 
 **Application Deadline:** Students must apply by the third semester
 prior to graduation. Spring graduates should submit their applications
@@ -180,7 +178,7 @@ acceptable.
 
 **4. Submit the DMP application form and proposal.**
 
-Complete the <a href="https://forms.gle/MtZpgvPkxm5j8zpU6"><b>DMP Application</b></a>. 
+Complete the [**DMP Application**](https://forms.gle/MtZpgvPkxm5j8zpU6).
 
 For students entering the DMP intending to graduate in Spring 2027, the deadline for submitting the application is **1 May 2026**.
 
@@ -228,9 +226,9 @@ The DMP report must be completed and submitted at least thirty days
 prior to graduation. For May 2026 graduation, the deadline is
 **Monday, 20 April 2026**.
 
-<center class="highlighted">
-<a href="https://forms.gle/r5iowjCjXurRYC8t5"><b color:"#fafafa">Submit DMP Report</b></a> 
-</center>
+<div class="notice">
+<a class="button button--secondary" href="https://forms.gle/r5iowjCjXurRYC8t5">Submit DMP Report</a>
+</div>
 
 DMP students should submit their DMP paper, along with additional information 
 such as the names of advisor and second reader, through the above link 
